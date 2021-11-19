@@ -1,0 +1,3 @@
+- 📖 I'm currently a first year student at United International University
+- 🌱 I’m currently learning C & C++
+- 👓 Always learning 
