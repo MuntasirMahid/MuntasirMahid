@@ -19,7 +19,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I am currently a second year studnet at United International University
+- :computer: I am currently a second year student at United International University
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :man_technologist: Alpha Student Ambassador at Microsoft Learn Student Ambassadors
 - :zap: Learning every day<br>
